@@ -1,4 +1,4 @@
-# vehicle-insurance
+# Vehicle Insurance Prediction
 Predictive modelling for vehicle insurance purchase
 
 # Problem Overview
